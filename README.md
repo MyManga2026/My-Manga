@@ -26,10 +26,6 @@
   <img src="screenshots/04_reader_screen.png" width="23%" alt="Reader Screen" />
 </p>
 
-| Explore & Trending | Search & Sources | Manga Details & Chapters | Modern Reader |
-|:---:|:---:|:---:|:---:|
-| 🌟 Featured carousel, trending titles & popular manga | 🔍 Fast search with multi-source filters & genres | 📖 Chapter listing, synopsis, score & downloads | ⚡ Webtoon scroll, Manga RTL, zoom & progress controls |
-
 ---
 
 ## ✨ Key Features
