@@ -25,6 +25,12 @@
   <img src="screenshots/Library_screen.jpeg" width="23%" alt="Detail Screen" />
   <img src="screenshots/Settings_screen.jpeg" width="23%" alt="Reader Screen" />
 </p>
+<p align="center">
+  <img src="screenshots/Manga_screen.jpeg" width="23%" alt="Explore Screen" />
+  <img src="screenshots/Manga_screen2.jpeg" width="23%" alt="Search Screen" />
+  <img src="screenshots/Profile_screen.jpeg" width="23%" alt="Detail Screen" />
+  <img src="screenshots/Activity_screen.jpeg" width="23%" alt="Reader Screen" />
+</p>
 
 ---
 
