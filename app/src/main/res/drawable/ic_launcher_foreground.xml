@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Red Japanese Sun Circle in background -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M60,28 A8,8 0 1,1 60,44 A8,8 0 1,1 60,28 Z" />
+
+    <!-- Red Torii Gate Silhouette above left page -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M34,31 L50,31 L50,33 L47,33 L47,42 L45,42 L45,35 L39,35 L39,42 L37,42 L37,33 L34,33 Z M36,33.5 L48,33.5 L48,34.5 L36,34.5 Z" />
+
+    <!-- Open Manga Book Cover & Spine -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,42 L52,47 L52,78 L28,73 Z M56,47 L80,42 L80,73 L56,78 Z" />
+
+    <!-- Inner Pages / Panels (Black Inset) -->
+    <path
+        android:fillColor="#0C0D12"
+        android:pathData="M31,45 L49,49 C49,49 49,73 49,73 L31,70 Z M59,49 L77,45 C77,45 77,70 77,70 L59,73 Z" />
+
+    <!-- White Manga Panel Boxes Inside Pages -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,48 L41,50 L41,57 L33,55 Z M43,50 L47,51 L47,63 L43,62 Z M33,58 L41,60 L41,67 L33,65 Z M61,51 L75,48 L75,60 L61,63 Z M61,65 L75,62 L75,67 L61,70 Z" />
+
+    <!-- Red Spine Line -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M53,47 L55,47 L55,78 L53,78 Z" />
+</vector>

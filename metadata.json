@@ -1,0 +1,6 @@
+{
+  "name": "MyManga",
+  "description": "Discover anime and manga metadata via AniList, browse trending series, and read manga chapters with customizable reading modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
