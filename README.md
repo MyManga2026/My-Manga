@@ -20,7 +20,7 @@
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="screenshots/01_explore_screen.png" width="23%" alt="Explore Screen" />
+  <img src="screenshots/Home_screen.jpeg" width="23%" alt="Explore Screen" />
   <img src="screenshots/02_search_screen.png" width="23%" alt="Search Screen" />
   <img src="screenshots/03_detail_screen.png" width="23%" alt="Detail Screen" />
   <img src="screenshots/04_reader_screen.png" width="23%" alt="Reader Screen" />
